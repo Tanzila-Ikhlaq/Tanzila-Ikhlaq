@@ -39,5 +39,6 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   </a> 
 </p>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/Tanzila_Ikhlaq?theme=dark&font=source_code_pro&extension=activity)
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/Tanzila_Ikhlaq?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats" />
+</p>
